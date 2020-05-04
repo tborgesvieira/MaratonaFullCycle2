@@ -1,6 +1,6 @@
-#Desafio 1
+# Desafio 1
 
-##Instalação e preparação do ambiente
+## Instalação e preparação do ambiente
 O primeiro passo para que você consiga acompanhar muito bem a Maratona é ter o seu ambiente de desenvolvimento pronto para conseguir simular tudo que te apresentaremos nos próximos vídeos. Nesse ponto o que você deve fazer como desafio será:
 
 Instalar o Node.js em seu computador
