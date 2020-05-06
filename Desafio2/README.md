@@ -55,3 +55,7 @@ TYPEORM_MIGRATIONS_DIR=src/migrations
 ```
 npm run typeorm migration:create -- -n maratona
 ```
+
+[Link da imagem no Dockerhub](https://hub.docker.com/r/tborgesvieira/mfc-desafio2)
+
+[Link dos desafios](https://github.com/codeedu/maratona2-desafios)
