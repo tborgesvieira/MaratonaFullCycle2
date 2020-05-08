@@ -8,3 +8,7 @@
 * A conexão entre os pontos tem que ser estabelecida
 * Realize o build da aplicação, gere uma imagem docker e faça o upload para o DockerHub
 * Quando executarmos: "docker run -p 3000:3000 seu-login-docker/nome-da-sua-imagem" deveremos ter acesso a aplicação na porta 3000.
+
+[Link da imagem no Dockerhub](https://hub.docker.com/r/tborgesvieira/mfc-desafio3)
+
+[Link dos desafios](https://github.com/codeedu/maratona2-desafios)
