@@ -2,6 +2,6 @@
 
 Lista de desafios referente a [Maratona Full Cycle 2](http://maratona.fullcycle.com.br/)
 
-1.[Desafio 1](Desafio1)
-
-2.[Desafio 2](Desafio2)
+1. [Desafio 1](Desafio1)
+2. [Desafio 2](Desafio2)
+3. [Desafio 3](Desafio3)
